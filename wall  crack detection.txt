@@ -75,3 +75,8 @@ https://universe.roboflow.com/juzizi/rdd-qzczi
 
 https://universe.roboflow.com/mcmaster-vkq5k/sam-cracks
 
+
+yolov7 based crack detection
+
+https://universe.roboflow.com/qwe-6rkqa/yolo7-seg
+
